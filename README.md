@@ -54,6 +54,9 @@ By clicking the buttons or pressing designated keys, you can trigger those sound
 Enable the loop feature to repeat certain beats, allowing you to create continuous rhythms.
 
 ## Dependencies
+
 React: Frontend framework for building the UI.
+
 Howler.js: (Optional) For advanced audio control and playback.
+
 CSS or Styled Components: For styling the user interface
